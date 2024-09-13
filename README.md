@@ -2,10 +2,10 @@
 <h1>ToastBroadcaster | v1.0.0 <h1>
 </div>
 <p align="center">
-<a href="https://poggit.pmmp.io/p/ToastBroadcaster"><img src="https://poggit.pmmp.io/shield.state/ToastBroadcaster"></a>
-<a href="https://poggit.pmmp.io/p/ToastBroadcaster"><img src="https://poggit.pmmp.io/shield.api/ToastBroadcaster"></a>
-<a href="https://poggit.pmmp.io/p/ToastBroadcaster"><img src="https://poggit.pmmp.io/shield.dl.total/ToastBroadcaster"></a>
-<a href="https://poggit.pmmp.io/p/ToastBroadcaster"><img src="https://poggit.pmmp.io/shield.dl/ToastBroadcaster"></a>
+<a href="https://poggit.pmmp.io/p/ToastBroadcasterPE"><img src="https://poggit.pmmp.io/shield.state/ToastBroadcasterPE"></a>
+<a href="https://poggit.pmmp.io/p/ToastBroadcasterPE"><img src="https://poggit.pmmp.io/shield.api/ToastBroadcasterPE"></a>
+<a href="https://poggit.pmmp.io/p/ToastBroadcasterPE"><img src="https://poggit.pmmp.io/shield.dl.total/ToastBroadcasterPE"></a>
+<a href="https://poggit.pmmp.io/p/ToastBroadcasterPE"><img src="https://poggit.pmmp.io/shield.dl/ToastBroadcasterPE"></a>
 <br>
 
 <img src="https://github.com/NoobMCBG/ToastBroadcaster/blob/main/rainbow.gif">
