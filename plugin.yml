@@ -3,7 +3,7 @@ name: ToastBroadcaster
 main: NoobMCBG\ToastBroadcaster\ToastBroadcaster
 api:
 - 5.0.0
-version: 1.0.2
+version: 1.0.0
 author: NoobMCBG, Terpz710
 description: Create toast style notifications for all your player
 website: https://github.com/NoobMCBG/ToastBroadcaster
